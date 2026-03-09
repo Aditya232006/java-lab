@@ -1,5 +1,5 @@
-// Name   : Atharv Kate
-// Roll No: 15
+// Name   : Aditya Rathi 
+// Roll No: 39
 // Experiment 2: Design and develop programs for different types of inheritance
 // Program 2: Hierarchical Inheritance — Employee → Manager, Developer, Programmer
 
