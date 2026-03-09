@@ -1,5 +1,5 @@
-// Name   : Atharv Kate
-// Roll No: 15
+// Name   : Aditya Rathi 
+// Roll No: 39
 // Experiment 6: Implementation of different I/O operations using I/O Streams
 // Program 1: Read data from a sample.txt file located outside the program's directory
 //
