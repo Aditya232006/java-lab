@@ -1,5 +1,5 @@
-// Name   : Atharv Kate
-// Roll No: 15
+// Name   : Aditya Rathi 
+// Roll No: 39
 // Experiment 3: Implementation of stack/queue operations using Interface
 // Program 1: Stack Operations using Interface
 
