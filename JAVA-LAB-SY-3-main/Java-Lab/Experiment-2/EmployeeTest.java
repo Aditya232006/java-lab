@@ -1,5 +1,5 @@
-// Name   : Atharv Kate
-// Roll No: 15
+// Name   : Aditya Rathi 
+// Roll No: 39
 // Experiment 1: Implementation of a problem statement using class and object
 // Program 1: Employee class with yearly salary and 10% raise
 
