@@ -1,5 +1,5 @@
-// Name   : Atharv Kate
-// Roll No: 15
+// Name   : Aditya Rathi 
+// Roll No: 39
 // Experiment 5: Implementation of a program for Exception Handling
 
 import java.util.Scanner;
