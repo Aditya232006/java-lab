@@ -1,4 +1,4 @@
-// Name   : Atharv Kate
+// Name   : Aditya Rathi 
 // Roll No: 15
 // Experiment 1: Implementation of a problem statement using class and object
 // Program 2: Rectangle area using setDim() and getArea() methods
