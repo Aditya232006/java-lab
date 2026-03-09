@@ -1,5 +1,5 @@
-// Name   : Atharv Kate
-// Roll No: 15
+// Name   : Aditya Rathi 
+// Roll No: 39
 // Experiment 6: Implementation of different I/O operations using I/O Streams
 // Program 2: Store and retrieve student info using DataOutputStream + DataInputStream
 
